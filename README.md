@@ -4,6 +4,6 @@ My name is Sarah! I have a B.S. in Business Marketing from Abilene Christian Uni
 
 Fun Facts:
 
-###The first language I used to program was "hello world" python 
-###I geek out about all things chess 
-###When I am not programming or studying, you can find me scrolling through Goodreads to find my next favorite book 
+The first language I used to program was "hello world" python 
+I geek out about all things chess 
+When I am not programming or studying, you can find me scrolling through Goodreads to find my next favorite book 
