@@ -14,8 +14,8 @@ My name is Sarah! I have a B.S. in Business Marketing from Abilene Christian Uni
 
 
 #### Currently Learning: 
-- SQL 
+ - <img align="left" alt="Tableau" width="50px" src="https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg?ssl=1"/>
+- <img align="left" alt="SQl" width="50px" src="
 
-- Tableau
 
 #### Connect with Me:
