@@ -14,8 +14,17 @@ My name is Sarah! I have a B.S. in Business Marketing from Abilene Christian Uni
 
 
 #### Currently Learning: 
- - <img align="left" alt="Tableau" width="50px" src="https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg?ssl=1"/>
-- <img align="left" alt="SQl" width="50px" src="
+ - SQL
+ 
+ - Tableau 
+ 
+ 
+ 
+#### Certificates
+- [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-d7fc41f1-6433-49c6-8853-92fb61cf9175/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
 
+
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/hH5KIM4KQ-W99APFJ5AIzw)
 
 #### Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/sarahe-mccoy/)
