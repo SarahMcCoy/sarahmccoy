@@ -8,7 +8,7 @@ My name is Sarah! Welcome to my porfolio. A little bit about me. I have a B.S. i
 - 🤓 I geek out about all things chess
 - 📖 I love reading. I am currently reading The Atlas Paradox by Olive Blake
 - 🎮 If I'm not coding or studying, you'll find me playing a video game. My favorite game of all time; is The Legend of Zelda: Breath of the Wild. I’m looking forward to The Legend of Zelda: Tear of the Kingdom will release later this year.
-- My most recent project was taking the animal crossing new horizon catalog to see what items are the most profitable in the game. 
+- My most recent project was taking the Animal Crossing New Horizon catalog to see what items are the most profitable in the game. 
 
 #### Currently Learning:
 - SQL
