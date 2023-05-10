@@ -1,14 +1,14 @@
 ### Hi there 👋🏾
 
-My name is Sarah! Welcome to my porfolio. A little bit about me. I have a B.S. in Business Marketing from Abilene Christian University and am currently enrolled in an M.S. Business Analytics program with the University of North Texas. I have been developing my technical skills to start a career in data science. I took a python for data science and machine learning course where I learned how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more! 
+My name is Sarah! Welcome to my porfolio. A little bit about me. I have a B.S. in Business Marketing from Abilene Christian University and am currently enrolled in an M.S. Business Analytics program with The University of North Texas. I have been developing my technical skills to start a career in data science. I took a python for data science and machine learning course where I learned how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more! 
 
 #### Fun Facts:
 
 - 👋🏾 First programming language I learned was "Hello World" Python
 - 🤓 I geek out about all things chess
-- 📖 I love reading. I am currently reading Turtles All The Way Down by John Green 
-- 🎮 If I'm not coding or studying, you'll find me playing a video game. My favorite game of all time; is The Legend of Zelda: Breath of the Wild. I’m looking forward to The Legend of Zelda: Tear of the Kingdom will release later this year.
-- My most recent project was taking the Animal Crossing New Horizon catalog to see what items are the most profitable in the game. 
+- 📖 I love reading. I am currently reading Beartown by Fredrik Backman.  
+- 🎮 If I'm not coding or studying, you'll find me playing a video game. My favorite game of all time; is The Legend of Zelda: Breath of the Wild. I’m looking forward to the release of The Legend of Zelda: Tear of the Kingdom.
+- My most recent project was taking the Animal Crossing New Horizon catalog to see what items in the game are the most profitable. 
 
 #### Currently Learning:
 - SQL
