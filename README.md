@@ -17,6 +17,6 @@ My name is Sarah! Welcome to my porfolio. A little bit about me. I have a B.S. i
 #### Certificates
 - [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-d7fc41f1-6433-49c6-8853-92fb61cf9175/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/hH5KIM4KQ-W99APFJ5AIzw)
-
+- [SQL Essential Training](https://www.linkedin.com/learning/certificates/1c67529a5d04ff6438ff029a22ab4d20383ee9a1194d8a2b672b48ed9921796f?u=41907252)
 #### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sarahe-mccoy/)
