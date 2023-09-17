@@ -16,3 +16,4 @@ My name is Sarah! Welcome to my portfolio. A little bit about me. I enrolled in 
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/1c67529a5d04ff6438ff029a22ab4d20383ee9a1194d8a2b672b48ed9921796f?u=41907252)
 #### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sarahe-mccoy/)
+- [Handshake](https://unt.joinhandshake.com/stu/users/51815027)
