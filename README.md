@@ -7,7 +7,7 @@ My name is Sarah! Welcome to my portfolio. A little bit about me. I enrolled in 
 - 👋🏾 First programming language I learned was "Hello World" Python
 - 🤓 I geek out about all things chess
 - 📖 I love reading. I am currently reading Beartown by Fredrik Backman.  
-- 🎮 If I'm not coding or studying, you'll find me playing a video game. My favorite game of all time; is The Legend of Zelda: Breath of the Wild. I’m looking forward to the release of The Legend of Zelda: Tear of the Kingdom.
+- 🎮 If I'm not coding or studying, you'll find me playing a video game. My favorite game of all time; is The Legend of Zelda: Breath of the Wild
 - My most recent project was taking the Animal Crossing New Horizon catalog to see what items in the game are the most profitable.
 
 #### Certificates
