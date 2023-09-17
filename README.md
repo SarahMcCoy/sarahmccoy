@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My name is Sarah! Welcome to my porfolio. A little bit about me. I have a B.S. in Business Marketing from Abilene Christian University and am currently enrolled in an M.S. Business Analytics program with The University of North Texas. I have been developing my technical skills to start a career in data science. I took a python for data science and machine learning course where I learned how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more! 
+My name is Sarah! Welcome to my portfolio. A little bit about me. I enrolled in the M.S. Business Analytics (STEM) program at The University of North Texas. I have been developing my technical skills to start a career in data science. I took a Python for data science and machine learning course where I learned how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more! 
 
 #### Fun Facts:
 
