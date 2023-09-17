@@ -8,7 +8,7 @@ My name is Sarah! Welcome to my portfolio. A little bit about me. I enrolled in 
 - 🤓 I geek out about all things chess
 - 📖 I love reading. I am currently reading Beartown by Fredrik Backman.  
 - 🎮 If I'm not coding or studying, you'll find me playing a video game. My favorite game of all time; is The Legend of Zelda: Breath of the Wild
-- My most recent project was taking the Animal Crossing New Horizon catalog to see what items in the game are the most profitable.
+- My most recent personal project was taking the Animal Crossing New Horizon catalog to see what items in the game are the most profitable.
 
 #### Certificates
 - [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-d7fc41f1-6433-49c6-8853-92fb61cf9175/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
