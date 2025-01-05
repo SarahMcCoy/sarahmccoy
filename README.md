@@ -12,7 +12,6 @@ Hi, I'm Sarah! Welcome to my portfolio. I hold a M.S. in Business Analytics (STE
 #### Certificates
 - [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/47a93f878d580367a8fc22eb5035277e187e6993?raw=1)
 - [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-d7fc41f1-6433-49c6-8853-92fb61cf9175/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
-- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/hH5KIM4KQ-W99APFJ5AIzw)
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/1c67529a5d04ff6438ff029a22ab4d20383ee9a1194d8a2b672b48ed9921796f?u=41907252)
 #### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sarahe-mccoy/)
