@@ -6,7 +6,7 @@ Hi, I'm Sarah! Welcome to my portfolio. I hold a M.S. in Business Analytics (STE
 - 👋🏾 First programming language I learned was "Hello World" Python
 - 🤓 I geek out about all things chess
 - 📖 I love reading. I am currently reading Intermezo by Sally Rooney.
-- Next up on my TBR: Martyr! by Kaveh Akbar, Project Hail Mary by Andy Weir, and Perfection by Vincenzo Latronico.
+- Next up on my TBR: Martyr! by Kaveh Akbar and Project Hail Mary by Andy Weir. 
 - 🎮 My favorite game of all time; is The Legend of Zelda: Breath of the Wild
 - 🔍 My recent programming endeavor involved using deep reinforcement learning to solve inventory stockout problems. You can explore it by clicking around my repositories.
   
