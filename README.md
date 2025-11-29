@@ -3,8 +3,6 @@
 Hi, I'm Sarah! Welcome to my portfolio. I hold a M.S. in Business Analytics (STEM) from the University of North Texas, where I developed advanced technical and analytical skills for a career in data science. My expertise includes Python for data science and machine learning, with hands-on experience using tools and libraries like NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, and more. I'm passionate about leveraging data-driven solutions to solve real-world problems. Explore my projects and feel free to connect!
 #### Fun Facts:
 
-- 👋🏾 First programming language I learned was "Hello World" Python
-- 🤓 I geek out about all things chess
 - 📖 I love reading. I am currently reading Intermezo by Sally Rooney.
 - Next up on my TBR: Project Hail Mary by Andy Weir
 - 🎮 My favorite game of all time; is The Legend of Zelda: Breath of the Wild
