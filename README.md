@@ -1,17 +1,16 @@
 ### Hi there 👋🏾
 
-Hi, I'm Sarah! Welcome to my portfolio. I hold a M.S. in Business Analytics (STEM) from the University of North Texas, where I developed advanced technical and analytical skills for a career in data science. My expertise includes Python for data science and machine learning, with hands-on experience using tools and libraries like NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, and more. I'm passionate about leveraging data-driven solutions to solve real-world problems. Explore my projects and feel free to connect!
+Hi, I'm Sarah! A Data Analyst passionate about transforming raw data into clear, actionable insights. I hold an M.S. in Business Analytics (STEM) with a specialization in data science from the University of North Texas, where I developed strong foundations in statistical modeling, machine learning, and end-to-end analytical workflows.
+
+Here you’ll find a collection of the projects I’ve worked on across analytics, machine learning, and early-stage data engineering. Feel free to click around — and feel free to connect!
+
 #### Fun Facts:
 
-- 📖 I love reading. I am currently reading Intermezo by Sally Rooney.
-- Next up on my TBR: Project Hail Mary by Andy Weir
-- 🎮 My favorite game of all time; is The Legend of Zelda: Breath of the Wild
-- 🔍 My recent programming endeavor involved using deep reinforcement learning to solve inventory stockout problems. You can explore it by clicking around my repositories.
-  
-#### Certificates
-- [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/47a93f878d580367a8fc22eb5035277e187e6993?raw=1)
-- [Python for Data Science and Machine Learning](https://www.udemy.com/certificate/UC-d7fc41f1-6433-49c6-8853-92fb61cf9175/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
-- [SQL Essential Training](https://www.linkedin.com/learning/certificates/1c67529a5d04ff6438ff029a22ab4d20383ee9a1194d8a2b672b48ed9921796f?u=41907252)
+- 📖 I love reading. I am currently reading hacking api's by corey J Bal and Project Hail Mary by Andy Weir. 
+- Next up on my TBR: Sunrise on the Reaping by Suzanne Collins.
+- 🎮 My favorite game of all time; is The Legend of Zelda: Breath of the Wild and currently playing kirby and the forgotten land
+- 🔍 My faviorite projects: involved using deep reinforcement learning to solve inventory stockout problems. You can explore it by clicking around my repositories.
+- 🔧 Currently expanding my skills across the data lifecycle, including data extraction, ETL/ELT workflows, and foundational data engineering concepts such as data warehousing and pipeline automation.
+
 #### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sarahe-mccoy/)
-- [Handshake](https://unt.joinhandshake.com/stu/users/51815027)
