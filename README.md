@@ -6,7 +6,7 @@ Here you’ll find a collection of the projects I’ve worked on across analytic
 
 #### Fun Facts:
 
-- 📖 I love reading. I am currently reading hacking api's by corey J Bal and The Sequel by Jean Hanff. 
+- 📖 I love reading. I am currently reading Hacking Api's by Corey J Bal and The Sequel by Jean Hanff. 
 - 🎮 Favorite game of all time: The Legend of Zelda: Breath of the Wild. Currently playing Kirby and the Forgotten Land.
 - 🔍 One of my favorite projects involved using deep reinforcement learning to solve inventory stockout problems. You can explore it by clicking around my repositories.
 - 🔧 Zelda Tears of the Kingdom ETL Project (In Progress) — Actively building an end-to-end ETL pipeline. View the repository here.
