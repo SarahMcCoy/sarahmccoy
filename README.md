@@ -2,7 +2,7 @@
 
 Hi, I'm Sarah! A Data Analyst passionate about transforming raw data into clear, actionable insights. I hold an M.S. in Business Analytics (STEM) with a specialization in data science from the University of North Texas, where I developed strong foundations in statistical modeling, machine learning, and end-to-end analytical workflows.
 
-Here you’ll find a collection of the projects I’ve worked on across analytics, machine learning, and early-stage data engineering. Feel free to click around — and feel free to connect!
+Here you’ll find a collection of the projects I’ve worked on across analytics, machine learning, and early-stage data engineering. Feel free to click around and to connect!
 
 #### Fun Facts:
 
