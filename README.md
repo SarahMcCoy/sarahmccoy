@@ -12,4 +12,4 @@ Here you’ll find a collection of the projects I’ve worked on across analytic
 - 🔧 Zelda Tears of the Kingdom ETL Project (In Progress) — Actively building an end-to-end ETL pipeline. View the repository here.
 
 #### Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/sarahe-mccoy/)
+- [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sarahe-mccoy/)
